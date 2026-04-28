@@ -1,0 +1,49 @@
+{
+  "Meva"    :     {
+                    "Anor"       : "18000",
+                    "Olma"       : "15000",
+                    "Glos"       : "20000",
+                    "Banan"      : "20000",
+                    "Nok"        : "10000"
+                  },
+  "Shirinlik" :  {
+                    "Tort"       : "20000",
+                    "Pirog"      : "20000",
+                    "Napalion"   : "15000",
+                    "Pecheniya"  : "15000",
+                 },
+  "Ihchimlik":   {
+                    "Fanta"      : "15000",
+                    "Pepsi"      : "15000",
+                    "Coca cola"  : "16000",
+                    "Flesh"      : "15000",
+                    "Mahitto"    : "14000"
+                 },
+  "Ovqat"   :    {
+                    "Palov"      : "20000",
+                    "Plemen"     : "20000",
+                    "Manti"      : "20000",
+                    "Tuxum barak": "20000",
+
+                 },
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
